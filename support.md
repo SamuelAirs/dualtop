@@ -39,7 +39,7 @@ Turn on its VNC server with a VNC password, then choose **Mac or VNC** in Remote
 - **Clicking:** tap the trackpad. Right-click: tap with two fingers, or tap its bottom-right corner.
 - **Dragging:** tap, then touch again and slide. Or rest a thumb on the bottom of the trackpad and slide another finger.
 - **The ••• menu:** Ctrl+Alt+Del, paste from the phone, switching between open computers, the phone's own desktop, and disconnecting.
-- **A bigger screen:** on iPhone Duo, a TV or monitor (by cable or Screen Mirroring) shows a copy of the phone, because iOS doesn't hand those screens to apps there. Where iOS does (by cable on an iPad or another iPhone), the picture moves to the monitor and the phone becomes its keyboard and trackpad.
+- **A bigger screen:** start Screen Mirroring to an Apple TV from Control Center, or plug in a monitor or TV by cable. The computer moves to the big screen at full size, and the phone becomes its keyboard and trackpad.
 
 ## Moving files
 
