@@ -52,7 +52,7 @@ Turn on its VNC server with a VNC password, then choose **Mac or VNC** in Remote
 
 1. In **Settings > Remote** on Dualtop's desktop, set "Files in Windows over Remote Desktop" to **Read only** or **Read and write**. It starts off.
 2. Connect to the PC again.
-3. In Windows, open File Explorer. Dualtop's Files folder is in **This PC** as **Dualtop on iPhone**, or at `\tsclient\Dualtop`.
+3. In Windows, open File Explorer. Dualtop's Files folder is in **This PC** as **Dualtop on iPhone**, or at `\\tsclient\Dualtop`.
 
 Copy and paste of text works with every kind of computer. VNC moves text only.
 
