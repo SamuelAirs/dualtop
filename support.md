@@ -41,6 +41,21 @@ Turn on its VNC server with a VNC password, then choose **Mac or VNC** in Remote
 - **The ••• menu:** Ctrl+Alt+Del, paste from the phone, switching between open computers, the phone's own desktop, and disconnecting.
 - **A bigger screen:** plug in a monitor or TV by cable (USB-C, or USB-C to HDMI). The picture moves there and the phone becomes its keyboard and trackpad. Screen Mirroring to an Apple TV shows a copy of the phone instead, because iOS doesn't hand that screen to apps.
 
+## Moving files
+
+**With Dualtop for Windows** (version 0.9.0 or later on the PC):
+
+- **Phone to PC:** while connected, open the **•••** menu and choose **Send a file to the PC…**, then pick the file. The PC asks "Save it?" and puts it in Downloads, or in the folder chosen there.
+- **PC to phone:** click Dualtop's icon by the PC's clock and choose **Send a file to the phone…**. It lands in **Files > Downloads** on Dualtop's desktop.
+
+**Over Remote Desktop:**
+
+1. In **Settings > Remote** on Dualtop's desktop, set "Files in Windows over Remote Desktop" to **Read only** or **Read and write**. It starts off.
+2. Connect to the PC again.
+3. In Windows, open File Explorer. Dualtop's Files folder is in **This PC** as **Dualtop on iPhone**, or at `\tsclient\Dualtop`.
+
+Copy and paste of text works with every kind of computer. VNC moves text only.
+
 ## When something doesn't work
 
 - **"Can't be reached":** the phone and computer must be on the same network, or connected through your VPN. Check that iOS allowed Dualtop on the local network: **Settings > Privacy & Security > Local Network**.
