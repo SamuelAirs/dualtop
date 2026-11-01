@@ -5,7 +5,7 @@ title: Dualtop privacy policy
 # Privacy policy
 
 **Dualtop** (the iPhone and iPad app) and **Dualtop for Windows** (the program for your PC)
-Effective October 29, 2026 · updated October 30, 2026 (files and clipboard history)
+Effective October 29, 2026 · updated October 31, 2026 (the drive's free space; files and clipboard history)
 
 The short version: Dualtop collects nothing about you. There's no account, no analytics, no ads and no tracking, and there are no Dualtop servers. What you make and what you connect to stays between your own devices.
 
@@ -43,7 +43,7 @@ With "Share the clipboard" on (Settings > Remote), text you copy on a connected 
 
 Files move between the phone and a computer only in the ways you choose:
 
-- **Over Remote Desktop,** only if you turn it on (Settings > Remote; it starts off). The PC you're connected to can then open one folder on the phone, Dualtop's own Files, and nothing else on the phone. It can only read it, or read and write too, as you chose, and only while you're connected.
+- **Over Remote Desktop,** only if you turn it on (Settings > Remote; it starts off). The PC you're connected to can then open one folder on the phone, Dualtop's own Files, and nothing else on the phone. It can only read it, or read and write too, as you chose, and only while you're connected. Like any drive, it also shows Windows how much room the phone has.
 - **With Dualtop for Windows,** a file goes to your PC only when you send it, and the PC asks "Save it?" before anything is written. Files the PC sends you land in the Downloads folder of Dualtop's Files.
 
 ## Clipboard history

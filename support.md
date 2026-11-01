@@ -4,11 +4,11 @@ title: Dualtop support
 
 # Support
 
-Dualtop turns your iPhone, and especially the foldable iPhone Duo, into a little laptop: its own desktop, plus your PC and Mac a tap away. Here's how to connect each, and what to try when something doesn't work.
+Dualtop turns your iPhone, and especially the foldable iPhone Duo, into a little laptop for your computers: your PC and Mac a tap away, and a workspace of its own for when you're not connected. Here's how to connect each, and what to try when something doesn't work.
 
 ## Connect to a computer
 
-Open **Remote** on Dualtop's desktop and choose **Add a computer**.
+Open **Remote** in Dualtop (the first tool along the bottom) and choose **Add a computer**.
 
 ### Any Windows PC (Home or Pro): Dualtop for Windows
 
@@ -38,7 +38,7 @@ Turn on its VNC server with a VNC password, then choose **Mac or VNC** in Remote
 
 - **Clicking:** tap the trackpad. Right-click: tap with two fingers, or tap its bottom-right corner.
 - **Dragging:** tap, then touch again and slide. Or rest a thumb on the bottom of the trackpad and slide another finger.
-- **The ••• menu:** Ctrl+Alt+Del, paste from the phone, switching between open computers, the phone's own desktop, and disconnecting.
+- **The ••• menu:** Ctrl+Alt+Del, paste from the phone, switching between open computers, Dualtop's own workspace, and disconnecting.
 - **A bigger screen:** start Screen Mirroring to an Apple TV from Control Center, or plug in a monitor or TV by cable. The computer moves to the big screen at full size, and the phone becomes its keyboard and trackpad.
 
 ## Moving files
@@ -46,11 +46,11 @@ Turn on its VNC server with a VNC password, then choose **Mac or VNC** in Remote
 **With Dualtop for Windows** (version 0.9.0 or later on the PC):
 
 - **Phone to PC:** while connected, open the **•••** menu and choose **Send a file to the PC…**, then pick the file. The PC asks "Save it?" and puts it in Downloads, or in the folder chosen there.
-- **PC to phone:** click Dualtop's icon by the PC's clock and choose **Send a file to the phone…**. It lands in **Files > Downloads** on Dualtop's desktop.
+- **PC to phone:** click Dualtop's icon by the PC's clock and choose **Send a file to the phone…**. It lands in **Files > Downloads** in Dualtop.
 
 **Over Remote Desktop:**
 
-1. In **Settings > Remote** on Dualtop's desktop, set "Files in Windows over Remote Desktop" to **Read only** or **Read and write**. It starts off.
+1. In Dualtop's **Settings > Remote**, set "Files in Windows over Remote Desktop" to **Read only** or **Read and write**. It starts off.
 2. Connect to the PC again.
 3. In Windows, open File Explorer. Dualtop's Files folder is in **This PC** as **Dualtop on iPhone**, or at <code>&#92;&#92;tsclient&#92;Dualtop</code>.
 
@@ -61,7 +61,7 @@ Copy and paste of text works with every kind of computer. VNC moves text only.
 - **"Can't be reached":** the phone and computer must be on the same network, or connected through your VPN. Check that iOS allowed Dualtop on the local network: **Settings > Privacy & Security > Local Network**.
 - **Remote Desktop refuses the sign-in:** check the user name and password as above. Remote Desktop needs Windows Pro or higher. On Windows Home, use Dualtop for Windows.
 - **"The certificate isn't the one it had before":** Windows renews its Remote Desktop certificate every few months. If that's all it is, edit the computer in Remote and choose **Trust its new certificate**.
-- **Anything else:** open **Settings > Diagnostics** on Dualtop's desktop and choose **Copy all**, then send it along with what you tried. It contains connection steps only: no passwords, keys or account names.
+- **Anything else:** open Dualtop's **Settings > Diagnostics** and choose **Copy all**, then send it along with what you tried. It contains connection steps only: no passwords, keys or account names.
 
 ## Contact
 
