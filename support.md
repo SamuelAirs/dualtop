@@ -54,7 +54,7 @@ Turn on its VNC server with a VNC password, then choose **Mac or VNC** in Remote
 2. Connect to the PC again.
 3. In Windows, open File Explorer. Dualtop's Files folder is in **This PC** as **Dualtop on iPhone**, or at <code>&#92;&#92;tsclient&#92;Dualtop</code>.
 
-Copy and paste of text works with every kind of computer. VNC moves text only.
+**Copy and paste (text):** to paste what you copied on your phone into any computer, choose **Paste from this phone** in the **•••** menu. Text you copy on a computer comes back to your phone over Remote Desktop and VNC; Dualtop for Windows doesn't send the PC's clipboard to the phone yet.
 
 ## When something doesn't work
 
